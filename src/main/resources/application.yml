@@ -1,0 +1,8 @@
+gemini:
+  api:
+    url: "https://generativelanguage.googleapis.com"
+    key: "AIzaSyA1qGVO0lSDaiP3DR8n-B_fL-SFy2M89Kc"
+  endpoint:
+    generate-content: "/v1beta/models/gemini-2.0-flash-exp:generateContent"
+
+prompt-path-prefix: "prompts/"

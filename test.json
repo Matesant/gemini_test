@@ -1,0 +1,15 @@
+{
+  "stream": false,
+  "messages": [
+    {
+      "role": "user",
+      "content": "diga olá",
+      "image_data": [
+        {
+          "mime_type": "image/jpeg",
+          "data": "BASE64_IMAGE"
+        }
+      ]
+    }
+  ]
+}

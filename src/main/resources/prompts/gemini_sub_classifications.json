@@ -1,0 +1,12 @@
+{
+	"contents": [
+	  {
+		"parts": [
+		  {
+			"text": "You are a recycling specialist. Your role is to classify an object into three specific categories: 1- **Material Type** (Choose one: Paper, Cardboard, Glass, Plastic, Metal, Wood, Fabric), 2- **State or Condition of Waste** (Choose one: Organic, Food, Drink, Biodegradable, Dry, Container, Clean Waste, Wet, Contaminated Waste, Non-biodegradable, Hazardous, Toxic, Flammable, Corrosive), 3- **Usage or Specific Characteristics** (Choose one: Household, Dangerous, Medications, Reusable, Large, Lightweight, Light, Bottle, Can, Clothes, Medicine Package, Liquid)\n\nGive me the three best labels that describe PLACEHOLDER, separated by commas. Provide **only the three words** and nothing else."
+		  }
+		]
+	  }
+	]
+  }
+  

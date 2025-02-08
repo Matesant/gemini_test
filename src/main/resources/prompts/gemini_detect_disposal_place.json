@@ -1,0 +1,18 @@
+{
+	"contents": [
+		{
+			"parts": [
+				{
+					"text": "Your role is to analyze an image and determine if the main object is a disposal place. If the object is a trash can, recycling bin, or any other designated waste disposal location, respond with 'yes'. If not, respond with 'no'. Provide no additional text."
+				},
+				{
+					"inline_data": {
+						"mime_type": "image/jpeg",
+						"data": "BASE64_IMAGE"
+					}
+				}
+			]
+		}
+	]
+}
+  

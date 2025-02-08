@@ -1,0 +1,18 @@
+{
+	"contents": [
+	  {
+		"parts": [
+		  {
+			"text": "In as few words as possible, identify just the main object in the image and the material it is made of and nothing else, for example, green retractable plastic pen or empty glass cup or banana."
+		  },
+		  {
+			"inline_data": {
+			  "mime_type": "image/jpeg",
+			  "data": "BASE64_IMAGE"
+			}
+		  }
+		]
+	  }
+	]
+  }
+  

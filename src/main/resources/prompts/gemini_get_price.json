@@ -1,0 +1,18 @@
+{
+	"contents": [
+	  {
+		"parts": [
+		  {
+			"text": "Your role is to analyze an image of an item that is about to be discarded. Considering that it's a used item, estimate its price in dollars. Your response must be a single number without any additional text or characters."
+		  },
+		  {
+			"inline_data": {
+			  "mime_type": "image/jpeg",
+			  "data": "BASE64_IMAGE"
+			}
+		  }
+		]
+	  }
+	]
+  }
+  

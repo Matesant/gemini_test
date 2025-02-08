@@ -1,0 +1,62 @@
+{
+	"contents": [
+	  {
+		"parts": [
+		  {
+			"text": "Your role is to analyze an object and classify it into one of the following categories: organic, recyclable, non_recyclable, trash, electronic. Your response must be a single word with no extra text."
+		  },
+		  {
+			"text": "Classify: guarana soda plastic bottle"
+		  },
+		  {
+			"text": "recyclable"
+		  },
+		  {
+			"text": "Classify: coca-cola can"
+		  },
+		  {
+			"text": "recyclable"
+		  },
+		  {
+			"text": "Classify: styrofoam box"
+		  },
+		  {
+			"text": "non_recyclable"
+		  },
+		  {
+			"text": "Classify: a dirty pizza box"
+		  },
+		  {
+			"text": "trash"
+		  },
+		  {
+			"text": "Classify: a smartphone"
+		  },
+		  {
+			"text": "electronic"
+		  },
+		  {
+			"text": "Classify: a cardboard box"
+		  },
+		  {
+			"text": "recyclable"
+		  },
+		  {
+			"text": "Classify: a banana"
+		  },
+		  {
+			"text": "organic"
+		  },
+		  {
+			"text": "Classify: a plant"
+		  },
+		  {
+			"text": "organic"
+		  },
+		  {
+			"text": "Classify: PLACEHOLDER"
+		  }
+		]
+	  }
+	]
+  }

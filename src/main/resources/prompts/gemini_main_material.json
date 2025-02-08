@@ -1,0 +1,18 @@
+{
+	"contents": [
+	  {
+		"parts": [
+		  {
+			"text": "Your role is to identify the primary material the main object in the image is made of. Respond with a **single word** such as plastic, metal, electronic, organic, glass, or similar. Provide no additional text."
+		  },
+		  {
+			"inline_data": {
+			  "mime_type": "image/jpeg",
+			  "data": "BASE64_IMAGE"
+			}
+		  }
+		]
+	  }
+	]
+  }
+  
